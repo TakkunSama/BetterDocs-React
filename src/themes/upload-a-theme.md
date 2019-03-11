@@ -1,5 +1,5 @@
 ---
-title: Upload a Theme
+title: Ryuzu
 sub: Uploading a theme is as easy as 1, 2, 3...uhh and maybe more.
 description: Want to publish your theme to our Showcase? Follow these instructions slow & carefully to get your theme featured for free!
 status: none
@@ -16,20 +16,20 @@ I promise it doesn't take long :)
 3. Follow the following format for the file
 ```md
 ---
-  title: {Theme Name}
-  author: {Author Name}
-  description: A SHORT Description
+  title: RyUzu
+  author: Takkun
+  description: nothing 
   download:
   github_profile_url: https://github.com/{Author Name}/
   github_source_url:
   support:
   discord_server:
   demo: https://raw.githack.com
-  thumbnail:
+  thumbnail:https://ibb.co/874P00m
   previews: [Direct link to image, Direct link to image]
-  status:
+  status:updated
   auto:
-  featured: 
+  featured: true
   style: dark
   tags: []
   ghcommentid: # DON'T CHANGE
